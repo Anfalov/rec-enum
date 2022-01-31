@@ -9,6 +9,5 @@ def rec(i):
 
 
 n = int(input())
-a = ['Ivan', 'Petr', 'Egor']
 ans = [0] * n
 rec(0)
